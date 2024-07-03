@@ -5,6 +5,7 @@
 
 .clock {
     margin-left: 50px;
+    max-width: max-content;
 }
 
 .watch {
