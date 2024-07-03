@@ -1,0 +1,32 @@
+.container {
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+.hw {
+    position: relative;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-left: 20px;
+
+}
+
+.hwTitle {
+    font-family: Montserrat,sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+    margin-bottom: 10px;
+    margin-top: 47px;
+    padding-left: 70px;
+}
+.messageBlock{
+    border: 1px solid #d9d9d9;
+    border-left: none;
+    border-right: none;
+    min-height: 336px;
+    padding: 32px 70px;
+}

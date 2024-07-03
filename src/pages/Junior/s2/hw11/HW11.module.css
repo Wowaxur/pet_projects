@@ -1,0 +1,12 @@
+.container {
+justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    gap: 25px;
+}
+
+.number {
+}

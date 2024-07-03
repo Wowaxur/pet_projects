@@ -1,0 +1,23 @@
+.spanBlock {
+}
+
+.span {
+}
+
+.input {
+}
+
+.pen {
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+}
+.defaultText{
+    color: #0080FF;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

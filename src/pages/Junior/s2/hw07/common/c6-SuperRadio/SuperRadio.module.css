@@ -1,0 +1,22 @@
+.radio {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.radio::before {
+}
+
+
+.radio:checked::before {
+}
+
+.label {
+    margin-top: 20px;
+    gap: 10px;
+    display: flex;
+}
+
+.options {
+}

@@ -1,0 +1,28 @@
+.buttonsContainer {
+    display: flex;
+    gap: 20px;
+}
+
+.responseContainer {
+    display: flex;
+}
+
+.imageContainer {
+}
+
+.image {
+}
+
+.textContainer{
+    text-align: left;
+    justify-content: center;
+}
+
+.code {
+}
+
+.text {
+
+}
+.info {
+}

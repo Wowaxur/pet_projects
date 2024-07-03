@@ -1,0 +1,19 @@
+.buttonsContainer {
+    display: flex;
+    gap: 10px;
+}
+
+.clock {
+    margin-left: 50px;
+}
+
+.watch {
+    display: flex;
+}
+
+.watch strong {
+}
+
+.more {
+    display: flex;
+}

@@ -1,0 +1,15 @@
+.select {
+    margin-top: 20px;
+    margin-left: 70px;
+    min-width: 165px;
+    font-size: 14px;
+    min-height: 24px;
+
+}
+
+.select:focus {
+}
+
+
+.option:hover {
+}
